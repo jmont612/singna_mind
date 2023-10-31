@@ -1158,9 +1158,9 @@ h1.intro-header::before {
   outline: 0;
   border: none;
   width: 97px;
-  height: 22px;
-  /* background: url("../images/logo.png") no-repeat center; */
-  background-size: 97px 22px;
+  height: 97px;
+  background: url("../images/logo.png") no-repeat center;
+  /* background-size: 97px 22px; */
   font: 0/0 a;
   text-shadow: none;
   color: transparent;
@@ -2401,7 +2401,7 @@ html[data-useragent*='MSIE 10.0'] .home-scrolldown,
 #testimonial-slider .owl-dots .owl-dot {
   display: inline-block;
   zoom: 1;
-  *display: inline;
+  /* display: inline; */
 }
 
 #testimonial-slider .owl-dots .owl-dot span {
