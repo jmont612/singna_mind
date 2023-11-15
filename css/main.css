@@ -2435,21 +2435,7 @@ html[data-useragent*='MSIE 10.0'] .home-scrolldown,
   }
 }
 
-@media only screen and (max-width: 768px) {
-  #testimonial-slider p {
-    font-size: 2.6rem;
-  }
-  #testimonial-slider .testimonial-author img {
-    width: 6.6rem;
-    height: 6.6rem;
-  }
-  #testimonial-slider .testimonial-author .author-info {
-    font-size: 1.8rem;
-  }
-  #testimonial-slider .testimonial-author .author-info span {
-    font-size: 1.5rem;
-  }
-}
+
 
 @media only screen and (max-width: 600px) {
   #testimonials .owl-wrap {
