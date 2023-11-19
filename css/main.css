@@ -2195,7 +2195,7 @@ html[data-useragent*='MSIE 10.0'] .home-scrolldown,
  * pricing 
  * ------------------------------------------------------------------- */
 
-@media only screen and (max-width: 1024px) {
+ @media only screen and (max-width: 1024px) {
   #pricing .pricing-content>[class*="col"] {
     width: 100% !important;
     float: none !important;
